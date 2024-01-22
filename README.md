@@ -2,7 +2,6 @@
 Discord bot for Palworld server.
 
 ## TODO list
-- Restart server
 - Get save files
 - Server monitorin (RAM/CPU/Disk)
 - Update game server ?
@@ -10,5 +9,6 @@ Discord bot for Palworld server.
 - View player list (Ask by Alexandre)
 
 ## Functional
-- nothing...
+- Get server status
+- Restart server
 
